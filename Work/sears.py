@@ -1,4 +1,4 @@
-# sears.py
+# sears.py fixed bug days to day 
 
 bill_thickness = 0.11 * 0.001    # Meters (0.11 mm)
 sears_height   = 442             # Height (meters)
