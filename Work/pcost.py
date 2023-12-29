@@ -25,6 +25,7 @@ def portfolio_cost(filename):
 
     print ("inside def Total cost:", totalcost)
     f.close()
+    return totalcost
 
 print(sys.argv)
 print(os.getcwd())
@@ -35,5 +36,5 @@ else:
     filename = '/Users/phileng/src/1)python/practical-python/Work/Data/portfolio.csv'
 print(filename)
 
-portfolio_cost(filename)
-#print('outside def Total cost:', cost)
+cost = portfolio_cost(filename)
+print('outside def Total cost:', cost)
