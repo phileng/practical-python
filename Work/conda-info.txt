@@ -1,0 +1,30 @@
+
+     active environment : base
+    active env location : /Users/phileng/anaconda3
+            shell level : 1
+       user config file : /Users/phileng/.condarc
+ populated config files : 
+          conda version : 23.7.4
+    conda-build version : 3.26.1
+         python version : 3.11.5.final.0
+       virtual packages : __archspec=1=arm64
+                          __osx=14.3=0
+                          __unix=0=0
+       base environment : /Users/phileng/anaconda3  (writable)
+      conda av data dir : /Users/phileng/anaconda3/etc/conda
+  conda av metadata url : None
+           channel URLs : https://repo.anaconda.com/pkgs/main/osx-arm64
+                          https://repo.anaconda.com/pkgs/main/noarch
+                          https://repo.anaconda.com/pkgs/r/osx-arm64
+                          https://repo.anaconda.com/pkgs/r/noarch
+          package cache : /Users/phileng/anaconda3/pkgs
+                          /Users/phileng/.conda/pkgs
+       envs directories : /Users/phileng/anaconda3/envs
+                          /Users/phileng/.conda/envs
+               platform : osx-arm64
+             user-agent : conda/23.7.4 requests/2.31.0 CPython/3.11.5 Darwin/23.3.0 OSX/14.3 aau/0.4.2 c/agbLeD9J-R7Wa8LqVbvmaw s/P4zNRoRahcCu7YvMv2uGQQ e/DysMFa2XP-I7rLlbGZlJ6w
+                UID:GID : 1243900:89939
+             netrc file : None
+           offline mode : False
+
+
